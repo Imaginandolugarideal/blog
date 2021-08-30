@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subheading: A awesome static site generator.
+title: Imaginando el lugar ideal
+subheading: Archivo de sembrando juntos
 author: Jeffrey
 categories: jekyll
 banner:

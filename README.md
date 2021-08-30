@@ -78,7 +78,7 @@ I will respect your crucial support and say THANK YOU!
 
 </p>
 
-## Features --
+## Features ----
 
 - Support beautiful **Night Mode**.
 - Modern responsive web design.

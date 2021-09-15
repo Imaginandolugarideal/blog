@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imaginando el lugar ideal
+title: el espacio ideal
 subheading: Archivo de sembrando juntos
 author: Jeffrey
 categories: jekyll

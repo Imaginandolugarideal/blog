@@ -6,3 +6,5 @@ home:
     opacity: 0.618
     background: "#000"
     height: "100vh"
+  hidden: 
+    - page-content

@@ -1,4 +1,7 @@
 home:
   heading: "Imaginando el lugar ideal"
   subheading: "archivo de sembrando juntos"
-  banner: "https://i.imgur.com/j2hzEjf.jpeg"
+  banner: 
+    image: https://i.imgur.com/j2hzEjf.jpeg
+    opacity: 0.618
+    background: "#000"

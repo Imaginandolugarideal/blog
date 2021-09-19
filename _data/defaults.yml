@@ -5,3 +5,4 @@ home:
     image: https://i.imgur.com/j2hzEjf.jpeg
     opacity: 0.618
     background: "#000"
+    height: "100%"
